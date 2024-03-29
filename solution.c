@@ -3,7 +3,7 @@
 #include <time.h> // srand() 함수를 사용하기 위해 필요한 헤더 파일
 
 #define MAX_ARRAY_SIZE 10000
-/*
+
 typedef struct ArrayList {
     void* data;
 	int sizeofdata;
@@ -155,8 +155,8 @@ void* get(void* data, int sizeofdata, int getIndex) {
         return NULL;
     }
 }
-*/
-/*
+
+
 int main() {
 
 
@@ -212,4 +212,3 @@ int main() {
 
 	return 0;
 }
-*/
